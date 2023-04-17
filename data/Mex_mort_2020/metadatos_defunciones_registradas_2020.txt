@@ -1,0 +1,36 @@
+Identifier: MEX-INEGI.ESD5.03-EVDR-2020
+
+Title: Estadísticas Vitales. Estadísticas de defunciones registradas 2020. Datos oportunos
+
+Description: INEGI. Estadísticas Vitales. Estadísticas de defunciones registradas 2020. SNIEG. Información de Interés Nacional.
+
+La estadística de defunciones registradas, se obtiene mediante el aprovechamiento de los registros administrativos captados por el Registro Civil y las Agencias del Ministerio Público, en el caso de defunciones generales.
+
+Las estadísticas de mortalidad, proporcionan información acerca de defunciones generales, su propósito es producir en forma continua y permanente, información que permita conocer y comparar el volumen, tendencias y características de la mortalidad, en los diferentes ámbitos geográficos del país, lo que constituye un insumo para el diseño, análisis y evaluación de programas de salud pública; para prevención y control de enfermedades sujetas a vigilancia epidemiológica; así como prevención de accidentes y en el estudio de diferencias de la mortalidad por edad, sexo y causa básica de la defunción.
+
+Su periodicidad es anual y los resultados se presentan por entidad federativa y municipio, referidos a tres ámbitos: lugar de registro, lugar de ocurrencia y de residencia habitual del fallecido.
+
+NOTA:
+El 24 de febrero de 2022, se reemplazó el archivo del Conjunto de datos debido a que la Dirección General de Información en Salud, de la Secretaría de Salud, como resultado de las aportaciones de otras instituciones del sector salud, rectificó 5 registros como muertes maternas. Así mismo, se reclasificaron 14 registros vinculados a COVID-19, de código U09.9 a U07.1, en consecuencia, se ajustaron las variables Defunciones maternas totales (maternas) y Causa de la defunción (causa_def), los catálogos causa_defuncion y entidad_municipio_localidad, así como el diccionario de datos. Dichos ajustes están registrados en el archivo de la Bitácora de cambios.
+
+Modified: 2022-02-24  
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: atencion.usuarios@inegi.org.mx
+
+License: https://www.inegi.org.mx/inegi/terminos.html
+
+dataDictionary: https://www.inegi.org.mx/rnm/index.php/catalog/703/data-dictionary
+
+Keyword: "Deceso", "Defunción", "Enfermedad", "Fallecimiento", "Homicidio", "Institución", "Mortalidad", "Muerte", "Población", "Registro", "Suicidio"
+
+ContactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634
+
+Temporal: 2020-01-01-2020-12-31
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anualmente
+
+Distribution: https://www.inegi.org.mx/programas/mortalidad/
